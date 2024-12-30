@@ -1,0 +1,6 @@
+[submodule "webdrivercamp-github-base"]
+	path = webdrivercamp-github-base
+	url = git@github.com:AnaAPrykhodko/webdrivercamp-github-base.git
+[submodule "base"]
+	path = base
+	url = git@github.com:AnaAPrykhodko/webdrivercamp-github-base.git
